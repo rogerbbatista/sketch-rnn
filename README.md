@@ -8,6 +8,7 @@ On models folder you can find two models:
 Both models parameters:
 
 num_steps=60000
+
 save_every=500
 dec_rnn_size=2048
 dec_model=hyper
