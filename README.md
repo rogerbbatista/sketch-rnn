@@ -1,9 +1,10 @@
 # sketch-rnn
 Repository to save the content and updates of my studies about Google Neural Network Sketch-RNN
 
-On models folder you can find two models:
+On models folder linked below you can find two models:
 - multiclass: trained on 3 classes (flamingo, palmtree and yoga) - 54K steps
 - pretrained_sheep: initialized with multiclass model and trained on sheep class - 13K steps
+https://drive.google.com/drive/folders/1AwwhpYCPrWnp_3UjOtA3m9vVAo_BDStM?usp=sharing
 
 Both models parameters:
 
